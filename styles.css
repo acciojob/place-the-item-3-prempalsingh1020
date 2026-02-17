@@ -2,7 +2,10 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
+	flex-direction:row;
+	
 	justify-content:space-evenly;
-	align-items:wrap;
-	background-color
+	flex-wrap:wrap;
+	background-color:yellow;
+	
 }
